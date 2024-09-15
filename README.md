@@ -64,6 +64,7 @@ Use real-time camera feeds to detect human faces and eyes for object or interact
 face_detection.py
 ![](gifs/face_detection.gif)
 
+
 eye_detection.py
 ![](gifs/eye_detection.gif)
 
