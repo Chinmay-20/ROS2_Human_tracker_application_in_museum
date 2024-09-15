@@ -21,14 +21,14 @@ color_detector.py
 Mark and track points using 3D LiDAR or depth sensors.
 
 point_cloud_marker.py
-(gifs/pc_marker_node.gif)
+!(gifs/pc_marker_node.gif)
 
 3. Blob Tracking and Publishing
 Track moving blobs in real time and publish their positions for further processing.
 
 blob_tracker.py
 blob_point_pub.py
-(gifs/ex1_blob_tracker.gif)
+!(gifs/ex1_blob_tracker.gif)
 
 4. Line Following
 Detect and follow colored lines on the ground for autonomous navigation.
@@ -45,7 +45,7 @@ follow_door.py
 Detect various objects in real time using camera feeds.
 
 object_detection.py
-(gifs/object_detection.gif)
+!(gifs/object_detection.gif)
 
 7. Static Transform Publisher
 Publishes static transforms to help align sensors or coordinate systems in a fixed setup.
@@ -56,13 +56,14 @@ static_transform_publisher.py
 Identify safe surfaces for navigation and path planning.
 
 surface_detection.py
-(gifs/bench_detector.gif)
+!(gifs/bench_detector.gif)
 
 9. Facial and Eye Detection
 Use real-time camera feeds to detect human faces and eyes for object or interaction tracking.
 
 face_detection.py
-(gifs/face_detection.gif)
+!(gifs/face_detection.gif)
+
 eye_detection.py
-(gifs/eye_detection.gif)
+!(gifs/eye_detection.gif)
 
