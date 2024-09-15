@@ -16,46 +16,53 @@ Features and Modules
 Detect and mark objects based on color segmentation.
 
 color_detector.py
-[Placeholder for color detection GIF]
+
 2. Point Cloud Marker
 Mark and track points using 3D LiDAR or depth sensors.
 
 point_cloud_marker.py
-[Placeholder for point cloud marker GIF]
+(gifs/pc_marker_node.gif)
+
 3. Blob Tracking and Publishing
 Track moving blobs in real time and publish their positions for further processing.
 
 blob_tracker.py
 blob_point_pub.py
-[Placeholder for blob tracking GIF]
+(gifs/ex1_blob_tracker.gif)
+
 4. Line Following
 Detect and follow colored lines on the ground for autonomous navigation.
 
 follow_yellow_line.py
 follow_yellow_line_optimized.py
-[Placeholder for line following GIF]
+
 5. Door Following
 Navigate towards and follow doors or passageways.
 
 follow_door.py
-[Placeholder for door following GIF]
+
 6. Object Detection
 Detect various objects in real time using camera feeds.
 
 object_detection.py
-[Placeholder for object detection GIF]
+(gifs/object_detection.gif)
+
 7. Static Transform Publisher
 Publishes static transforms to help align sensors or coordinate systems in a fixed setup.
 
 static_transform_publisher.py
+
 8. Surface Detection
 Identify safe surfaces for navigation and path planning.
 
 surface_detection.py
-[Placeholder for surface detection GIF]
+(gifs/bench_detector.gif)
+
 9. Facial and Eye Detection
 Use real-time camera feeds to detect human faces and eyes for object or interaction tracking.
 
 face_detection.py
+(gifs/face_detection.gif)
 eye_detection.py
-[Placeholder for face and eye detection GIF]
+(gifs/eye_detection.gif)
+
